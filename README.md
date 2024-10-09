@@ -6,7 +6,7 @@ Here is the version on my local computer.  Isn't that grand?
 
 ## Casey makes changes here
 
-
+Casey is the owner of this project.
 
 ## Camila makes changes here
 
