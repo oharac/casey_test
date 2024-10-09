@@ -14,4 +14,4 @@ Camila is a collaborator in this project. She is the Data Training Program Manag
 
 ## Both make changes here
 
-change this line!
+This project is about collaborating using Git and GitHub.
