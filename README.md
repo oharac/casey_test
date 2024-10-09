@@ -10,7 +10,7 @@ Here is the version on my local computer.  Isn't that grand?
 
 ## Camila makes changes here
 
-Camila is a collaborator in this project.
+Camila is a collaborator in this project. She is the Data Training Program Manager at NCEAS.
 
 ## Both make changes here
 
